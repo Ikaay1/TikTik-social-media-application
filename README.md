@@ -76,7 +76,7 @@ In this stage, I sent requests to the required api routes, whilst also sending t
 4. Start the app
 
    ```
-   npm start
+   npm run dev
    ```
 
 5. Open running application
@@ -84,10 +84,6 @@ In this stage, I sent requests to the required api routes, whilst also sending t
    ```
    http://localhost:3000/ or the specified url from the terminal
    ```
-
-## Testing
-
-> - `npm test`
 
 ## Author
 
