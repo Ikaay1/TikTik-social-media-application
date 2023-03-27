@@ -56,34 +56,6 @@ In this stage, I connected to my database and setup my api logic to perform the 
 
 In this stage, I sent requests to the required api routes, whilst also sending the body data needed. The api routes returned response, which I manipulated and populated the DOM with.
 
-## Installation
-
-1. Install [`node`](https://nodejs.org/en/download/), version 6 or greater
-
-2. Clone the repo and cd into it
-
-   ```
-   git clone https://github.com/Ikaay1/tiktik.git
-   cd tiktik
-   ```
-
-3. Install all dependencies
-
-   ```
-   npm install
-   ```
-
-4. Start the app
-
-   ```
-   npm run dev
-   ```
-
-5. Open running application
-
-   ```
-   http://localhost:3000/ or the specified url from the terminal
-   ```
 
 ## Author
 
