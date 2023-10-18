@@ -59,4 +59,4 @@ In this stage, I sent requests to the required api routes, whilst also sending t
 
 ## Author
 
-- **Mgbemele Ikechukwu** - Software Developer.
+- **Mgbemele Ikechukwu** - Software Developer
